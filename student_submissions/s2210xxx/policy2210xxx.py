@@ -7,6 +7,7 @@ def Policy2210xxx(Policy):
 
         # Student code here
         if policy_id == 1:
+            print("a")
             pass
         elif policy_id == 2:
             pass
